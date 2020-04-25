@@ -84,13 +84,13 @@ The error page will be thrown whenever an unknown route is entered in the naviga
 
 ## Planning
 
--- BACKEND --
+-- BACK END --
 
-The backend of the application was obtained via a web search for an API. We chose the Breaking Bad API as it has a lot of content that we could work with and was a topic of interest to both me and Xuan.
+The back end of the application was obtained via a web search for an API. We chose the Breaking Bad API as it has a lot of content that we could work with and was a topic of interest to both me and Xuan.
 
--- FRONTEND --
+-- FRONT END --
 
-The task required the use of React.js for the development of the frontend.
+The task required the use of React.js for the development of the front end.
 
 ## Project Management
 
@@ -109,9 +109,9 @@ Day 2:
 
 ## Successes and key learnings
 
-This project was the first project that me and a classmate used to obtain data from a backend, as project one was solely a frontend application. Obtaining and rendering the correct information using Axios and React.js was a challenge at first, however me and my teammate worked extremely well together and we overcame these challenges as a team.
+This project was the first project that me and a classmate used to obtain data from a back end, as project one was solely a front end application. Obtaining and rendering the correct information using Axios and React.js was a challenge at first, however me and my teammate worked extremely well together and we overcame these challenges as a team.
 
-Learning how to use Axios and React.js proved to be an exceptionally fun task once we learned how to properly render data from the backend onto the frontend. We were able to use the same techniques that we learned from project one and implement them onto this project, to show the data. As datasets were the same as what we were used to working with in the previous project, we understood which methods we needed to use to display certain types of data. For example, the API retuned an array of objects for most datasets, meaning we could map through the array and use dot-notation to deliver the necessary data to the user:
+Learning how to use Axios and React.js proved to be an exceptionally fun task once we learned how to properly render data from the back end onto the front end. We were able to use the same techniques that we learned from project one and implement them onto this project, to show the data. As datasets were the same as what we were used to working with in the previous project, we understood which methods we needed to use to display certain types of data. For example, the API retuned an array of objects for most datasets, meaning we could map through the array and use dot-notation to deliver the necessary data to the user:
 
 - Parent component:
 
